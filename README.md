@@ -2,7 +2,7 @@
 
 ### Excutive Summary
 
-Nation-wide disclosure program Open Payments program brings greater transparency to the physician-industry financial relationships. Although financial interactions between physicians and health care manufacturing companies are under increased scrutiny, physicians’ professional medical activities are still highly dependent on the industry’s financial supports. The total annual payment increased 8.82% from 2014 to 2019. During the studied period, pharmaceutical companies gave various kinds of payments such as gifts and grants to physicians, which may compromise physicians’ independent judgments and rational prescribing. However, the government has not responded to this risk effectively. Disclosure program should be coupled with reform efforts. Since the collaborations between physicians and pharmaceutical companies are important for medical activities such as researches and experiments, the public authorities should limit the negative effects of industry funding. This report proposes to create an alternative to pharmaceutical industry funding for physicians and professional medical activities. Future regulatory policy should tax health care manufacturing companies and allocate the fund to support professional medical activities. Direct industry gifts and financial support from the medical industry to physicians and their organizations should be prohibited.
+Nation-wide disclosure program Open Payments program brings greater transparency to the physician-industry financial relationships. Although financial interactions between physicians and health care manufacturing companies are under increased scrutiny, physicians’ professional medical activities are still highly dependent on the industry’s financial supports. The total annual payment increased 8.82% from 2014 to 2019. During the studied period, pharmaceutical companies gave various kinds of payments such as gifts and grants to physicians, which may compromise physicians’ independent judgments and rational prescribing. However, the government has not responded to this risk effectively by introducing regulatory policies. Disclosure program should be coupled with reform efforts. Since the collaborations between physicians and pharmaceutical companies are important for medical activities such as researches and experiments, the public authorities should limit the negative effects of industry funding. This report proposes to create an alternative to pharmaceutical industry funding for physicians and professional medical activities. Future regulatory policies should tax health care manufacturing companies and allow independent government entity to allocate the fund to support professional medical activities. Direct industry gifts and financial supports from the medical industry to physicians and their organizations should be prohibited.
 
 ### Introduction
 
@@ -16,7 +16,7 @@ Open Payments program was established through the Physician Payments Sunshine Ac
 
 This webpage provides an overview of Open Payments data in 2014, 2016, and 2019. The data visualization was created using general payment (non-ownership and non-research payment) data in the Open Payments database. 
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/shared/HT92WJ42N?:display_count=y&:showVizHome=no" width = '1000' height = '800' scrolling='no' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/DV_Final_16085122845920/1?:language=en&:display_count=y&:showVizHome=no" width = '1000' height = '800' scrolling='no' ></iframe>
 
 #### Total Payments
 
@@ -24,7 +24,7 @@ Total industry payment to physicians increased 8.82%, from $2,109,918,866 in pro
  
 #### Nature of Payments
 
-The rankings of total payment amount and number of transactions based on the nature of payment were constant in three years. The three categories with the highest total payment were royalty or license, compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program, and consulting fee in all three years, with total amounts in PY19, were the highest among these three categories. Food & beverage and travel & lodging were the most two common types of payments that the industry makes to physicians in all three years. Royalty or license, current or prospective ownership or investment interest, grant and charitable contribution were the four highest-paid categories in terms of the average single payment in all three years, with royalty or license ($100,075.66) and current or prospective ownership or investment interest ($100,520.19) in PY19 being higher than $100,000 in one transaction on the average.
+The rankings of total payment amount and number of transactions based on the nature of payment were constant in three years. The three categories with the highest total payment were _royalty or license, compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program, and consulting fee in all three years, with total amounts_ in PY19, were the highest among these three categories. _Food & beverage and travel & lodging_ were the most two common types of payments that the medical companies made to physicians in all three years. _Royalty or license, current or prospective ownership or investment interest, grant and charitable contribution_ were the four highest-paid categories in terms of the average single payment in all three years, with _royalty or license ($100,075.66)_ and _current or prospective ownership or investment interest_ ($100,520.19) in PY19 being higher than $100,000 in one transaction on the average.
 
 #### Payments by State
 
@@ -53,7 +53,7 @@ The study found that Physicians who received payments for a drug in all 3 years 
 Another study looked at a specific payment nature: payment for food and beverage. It examined Open Payments data from August to December 2013 and found that physicians who attended a single industry meal promoting one of four specific brand-name drugs had significantly higher rates of prescribing those drug over equally effective alternatives from the same drug classes
 The studied drug included _Rosuvastatin(statin); Nebivolol(cardioselective β-blocker prescriptions); Olmesartan (ACE inhibitor and ARB prescriptions); and Desvenlafaxine (SSRI and SNRI)._ Physicians who received a single meal promoting the drug of interest had higher rates of prescribing brand-name drugs over other generic alternatives. The findings indicated an association as opposed to the cause-and-effect relationship between Payments from the medical industry and prescribing behavior in the studied drug category.
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/drug_meal/1_2?:language=en&:display_count=y&publish=yes&:showVizHome=no" width = '1000' height = '700' scrolling='no' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/drug_meal/1_2?:language=en&:display_count=y&publish=yes&:showVizHome=no" width = '1000' height = '680' scrolling='no' ></iframe>
 
 
 ### Conclusion
@@ -63,7 +63,24 @@ Financial relationships between industry and physicians have been controversial 
 Open Payments program brings great transparency to the industry-physician relationships, but it doesn’t curtail the conflicts of interest significantly on its own. Regulatory policies and reform efforts should couple with the disclosure program in order to remove conflicts of interest in health care.  For example,  Stanford University Medical Center has banned its physicians from accepting meals or gifts and participating in speaking activities. 
 However, collaborations with industry and financial supports from pharmaceutical companies are important for physicians and professional medical activities. Therefore, the goverment need to create an alternative to limit the source of the conflicts of interest. Reform policy should include tax pharmaceutical firms to support crucial professional activities. A government-sponsored independent entity should distribute these funds. Meanwhile, legislation should prohibit gifts and financial supports such as donations and funds directly to physicians. Moreover, individual physicians should take a stance against industry influences and always put their patients’ need first
 
-#### _Try It Yourself: How much money did individual physician in DC receive in 2019_
+
+#### _Try It Yourself: How much money did individual physician in DC receive in 2019?_
 Select a Physician'name and see how much industry payment s/he received in 2019. 
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/dv_final_dc/1?:language=en&:display_count=y&publish=yes&:showVizHome=no" width = '1000' height = '800' scrolling='no' ></iframe>
+
+
+### Reference
+Agrawal, S., & Brown, D. (2016). The Physician Payments Sunshine Act — Two Years of the Open Payments Program. New England Journal Of Medicine, 374(10), 906-909. doi: 10.1056/nejmp1509103
+Agrawal, S., Brennan, N., & Budetti, P. (2013). The Sunshine Act — Effects on Physicians. New England Journal Of Medicine, 368(22), 2054-2057. doi: 10.1056/nejmp1303523
+Blake, R., & Early, E. (1995). Patients' Attitudes About Gifts To Physicians From Pharmaceutical Companies. The Journal Of The American Board Of Family Practice, 8(6), 457-464.
+Cecaj, A., & Mamei, M. (2017). Investigating economic activity concentration patterns of co-agglomerations through association rule mining. Journal Of Ambient Intelligence And Humanized Computing, 10(2), 463-476. https://doi.org/10.1007/s12652-017-0665-3
+Cerrito, P. (2007). Choice of antibiotic in open heart surgery. Intelligent Decision Technologies, 1(1-2), 63-69. https://doi.org/10.3233/idt-2007-11-206
+DeJong, C., Aguilar, T., Tseng, C., Lin, G., Boscardin, W., & Dudley, R. (2016). Pharmaceutical Industry–Sponsored Meals and Physician Prescribing Patterns for Medicare Beneficiaries. JAMA Internal Medicine, 176(8), 1114. https://doi.org/10.1001/jamainternmed.2016.2765
+Jödicke, A., Zellweger, U., Tomka, I., Neuer, T., Curkovic, I., & Roos, M. et al. (2019). Prediction of health care expenditure increase: how does pharmacotherapy contribute?. BMC Health Services Research, 19(1). https://doi.org/10.1186/s12913-019-4616-x
+Patel, S., Yu, D., Elsolh, B., Goldacre, B., & Nash, G. (2018). Assessment of Conflicts of Interest in Robotic Surgical Studies. Annals Of Surgery, 268(1), 86-92. doi: 10.1097/sla.0000000000002420
+Qian, J., Hansen, R., Surry, D., Howard, J., Kiptanui, Z., & Harris, I. (2017). Disclosure of industry payments to prescribers: industry payments might be a factor impacting generic drug prescribing. Pharmacoepidemiology And Drug Safety, 26(7), 819-826. https://doi.org/10.1002/pds.4224
+Sullivan, T., & Gitterman, A. (2013). Physician Payment Sunshine Act: Orthopedic Surgeons What You Should Know. Reconstructive Review, 3(2). doi: 10.15438/rr.v3i2.36
+Yeh, J., Franklin, J., Avorn, J., Landon, J., & Kesselheim, A. (2016). Association of Industry Payments to Physicians With the Prescribing of Brand-name Statins in Massachusetts. JAMA Internal Medicine, 176(6), 763. https://doi.org/10.1001/jamainternmed.2016.1709
+Zeng, L., Guo, J., Wang, B., Lv, J., & Wang, Q. (2019). Analyzing sustainability of Chinese coal cities using a decision tree modeling approach. Resources Policy, 64, 101501. https://doi.org/10.1016/j.resourpol.2019.101501
+
