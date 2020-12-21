@@ -76,13 +76,22 @@ Agrawal, S., & Brown, D. (2016). The Physician Payments Sunshine Act — Two Yea
 Agrawal, S., Brennan, N., & Budetti, P. (2013). The Sunshine Act — Effects on Physicians. New England Journal Of Medicine, 368(22), 2054-2057. doi: 10.1056/nejmp1303523
 
 Blake, R., & Early, E. (1995). Patients' Attitudes About Gifts To Physicians From Pharmaceutical Companies. The Journal Of The American Board Of Family Practice, 8(6), 457-464.
+
 Cecaj, A., & Mamei, M. (2017). Investigating economic activity concentration patterns of co-agglomerations through association rule mining. Journal Of Ambient Intelligence And Humanized Computing, 10(2), 463-476. https://doi.org/10.1007/s12652-017-0665-3
+
 Cerrito, P. (2007). Choice of antibiotic in open heart surgery. Intelligent Decision Technologies, 1(1-2), 63-69. https://doi.org/10.3233/idt-2007-11-206
+
 DeJong, C., Aguilar, T., Tseng, C., Lin, G., Boscardin, W., & Dudley, R. (2016). Pharmaceutical Industry–Sponsored Meals and Physician Prescribing Patterns for Medicare Beneficiaries. JAMA Internal Medicine, 176(8), 1114. https://doi.org/10.1001/jamainternmed.2016.2765
+
 Jödicke, A., Zellweger, U., Tomka, I., Neuer, T., Curkovic, I., & Roos, M. et al. (2019). Prediction of health care expenditure increase: how does pharmacotherapy contribute?. BMC Health Services Research, 19(1). https://doi.org/10.1186/s12913-019-4616-x
+
 Patel, S., Yu, D., Elsolh, B., Goldacre, B., & Nash, G. (2018). Assessment of Conflicts of Interest in Robotic Surgical Studies. Annals Of Surgery, 268(1), 86-92. doi: 10.1097/sla.0000000000002420
+
 Qian, J., Hansen, R., Surry, D., Howard, J., Kiptanui, Z., & Harris, I. (2017). Disclosure of industry payments to prescribers: industry payments might be a factor impacting generic drug prescribing. Pharmacoepidemiology And Drug Safety, 26(7), 819-826. https://doi.org/10.1002/pds.4224
+
 Sullivan, T., & Gitterman, A. (2013). Physician Payment Sunshine Act: Orthopedic Surgeons What You Should Know. Reconstructive Review, 3(2). doi: 10.15438/rr.v3i2.36
+
 Yeh, J., Franklin, J., Avorn, J., Landon, J., & Kesselheim, A. (2016). Association of Industry Payments to Physicians With the Prescribing of Brand-name Statins in Massachusetts. JAMA Internal Medicine, 176(6), 763. https://doi.org/10.1001/jamainternmed.2016.1709
+
 Zeng, L., Guo, J., Wang, B., Lv, J., & Wang, Q. (2019). Analyzing sustainability of Chinese coal cities using a decision tree modeling approach. Resources Policy, 64, 101501. https://doi.org/10.1016/j.resourpol.2019.101501
 
