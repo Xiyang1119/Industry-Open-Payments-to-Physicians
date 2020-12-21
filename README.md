@@ -45,7 +45,7 @@ _Chronic Myeloid Leukemia(CML): dasatinib, imatinib, nilotinib_
 The study collected data from two main sources, Open Payments data for payments and Medicare Part D for prescribing measurements. It performed an analysis on Open Payments data of the 2013-2015 program years. The outcome was relative prescribing of that drug in 2015, compared with the other drugs for that cancer.
 The study found that physicians who received payments for a drug in all 3 years had increased prescribing of that drug (compared with 0 years) for most of the studied cancers except for prostate cancer. Therefore, industry payments are associated with cancer drug prescribing among physicians who received payments consistently
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/cancer_drug/1_1?:language=en&:retry=yes&:display_count=y&:showVizHome=no" width = '800' height = '650' scrolling='no' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/cancer_drug/1_1?:language=en&:retry=yes&:display_count=y&:showVizHome=no" width = '850' height = '650' scrolling='no' ></iframe>
 
 
 #### Study 2 [Pharmaceutical Industry-Sponsored Meals and Physician Prescribing Patterns for Medicare Beneficiaries](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2528290)
@@ -53,7 +53,7 @@ The study found that physicians who received payments for a drug in all 3 years 
 Another study looked at a specific payment nature: payment for food and beverage. It examined Open Payments data from August to December 2013 and found that physicians who attended a single industry meal promoting one of four specific brand-name drugs had significantly higher rates of prescribing those drug over equally effective alternatives from the same drug classes
 The studied drug included _Rosuvastatin(statin); Nebivolol(cardioselective β-blocker prescriptions); Olmesartan (ACE inhibitor and ARB prescriptions); and Desvenlafaxine (SSRI and SNRI)._ Physicians who received a single meal promoting the drug of interest had higher rates of prescribing brand-name drugs over other generic alternatives. The findings indicated an association as opposed to the cause-and-effect relationship between payments from the medical industry and prescribing behavior in the studied drug category.
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/drug_meal/1_2?:language=en&:display_count=y&publish=yes&:showVizHome=no" width = '800' height = '680' scrolling='no' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/drug_meal/1_2?:language=en&:display_count=y&publish=yes&:showVizHome=no" width = '850' height = '680' scrolling='no' ></iframe>
 
 
 ### Conclusion
