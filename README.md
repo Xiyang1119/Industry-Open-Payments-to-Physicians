@@ -1,8 +1,8 @@
-## Financial Relationships Between Physicians and Medical Industry
+## Disclosure Program of Physician-Industry Financial Relationship and Its Effects
 
 ### Excutive Summary
 
-Nation-wide disclosure program Open Payments program brings greater transparency to the physician-industry financial relationships. Although financial interactions between physicians and health care manufacturing companies are under increased scrutiny, physicians’ professional medical activities are still highly dependent on the industry’s financial supports. The total annual payment increased 8.82% from 2014 to 2019. During the studied period, pharmaceutical companies gave various kinds of payments such as gifts and grants to physicians, which probably compromise physicians’ independent judgment and rational prescribing. However, the government has not responded to this risk effectively. Disclosure program should be coupled with reform efforts. Since the collaborations between physicians and pharmaceutical companies are important for medical activities such as researches and experiments, the public authorities should limit the negative effects of industry funding. This report proposes to create an alternative to pharmaceutical industry funding for physicians and professional medical activities. Future regulatory policy should tax health care manufacturing companies and allocate the fund to support professional medical activities. Direct industry gifts and financial support from the medical industry to physicians and their organizations should be prohibited.
+Nation-wide disclosure program Open Payments program brings greater transparency to the physician-industry financial relationships. Although financial interactions between physicians and health care manufacturing companies are under increased scrutiny, physicians’ professional medical activities are still highly dependent on the industry’s financial supports. The total annual payment increased 8.82% from 2014 to 2019. During the studied period, pharmaceutical companies gave various kinds of payments such as gifts and grants to physicians, which may compromise physicians’ independent judgments and rational prescribing. However, the government has not responded to this risk effectively. Disclosure program should be coupled with reform efforts. Since the collaborations between physicians and pharmaceutical companies are important for medical activities such as researches and experiments, the public authorities should limit the negative effects of industry funding. This report proposes to create an alternative to pharmaceutical industry funding for physicians and professional medical activities. Future regulatory policy should tax health care manufacturing companies and allocate the fund to support professional medical activities. Direct industry gifts and financial support from the medical industry to physicians and their organizations should be prohibited.
 
 ### Introduction
 
@@ -18,19 +18,19 @@ This webpage provides an overview of Open Payments data in 2014, 2016, and 2019.
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/shared/HT92WJ42N?:display_count=y&:showVizHome=no" width = '1000' height = '800' scrolling='no' ></iframe>
 
-#### Total Spending Trend
+#### Total Payments
 
 Total industry payment to physicians increased 8.82%, from $2,109,918,866 in program year 2014 (PY14) to $2,296,025,290 in PY19. It is clear is that 7 years after the Open Payments program, with increased transparency of the financial relationships between physicians and the medical industry, companies continue to make considerable payments to physicians.
  
-#### Nature of Payment
+#### Nature of Payments
 
 The rankings of total payment amount and number of transactions based on the nature of payment were constant in three years. The three categories with the highest total payment were royalty or license, compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program, and consulting fee in all three years, with total amounts in PY19, were the highest among these three categories. Food & beverage and travel & lodging were the most two common types of payments that the industry makes to physicians in all three years. Royalty or license, current or prospective ownership or investment interest, grant and charitable contribution were the four highest-paid categories in terms of the average single payment in all three years, with royalty or license ($100,075.66) and current or prospective ownership or investment interest ($100,520.19) in PY19 being higher than $100,000 in one transaction on the average.
 
-#### Payment by State
+#### Payments by State
 
 Approximately half of the payments went to the top five states of payment amount in the studied year. In 2014, Physicians in California, New York, Texas, Florida, and Massachusetts received 47% of the total payments amount. The top five in 2019 are the same as those in 2014, with orders of California, Texas, Massachusetts, Florida, and New York accounting for 58%.  49% of all payments in 2016 went to physicians in California, New York, Texas, Pennsylvania, and Massachusetts. Physicians in California received the highest payments from the industry in all three years, accounting for 22%, 23%, and 21% respectively.
 
-### Effect on prescribing
+### Effect on Prescribing
 
 One concern of payments from the medical industry is the potential effect on physician prescribing behaviors. According to Blake and Early (1995), 70% of patients in their study believed that payments from the pharmaceutical industry influence physicians’ prescribing behaviors. Recent analyses of industry payments to physicians
 
@@ -61,7 +61,7 @@ The studied drug included _Rosuvastatin(statin); Nebivolol(cardioselective β-bl
 Financial relationships between industry and physicians have been controversial due to the potential negative influence on physician prescribing practices, which could be the source of conflicts of interest. Although additional evidence is needed before broad conclusions can be drawn, Open Payments data illustrate that industry payments to physicians are widespread in the U.S. Potential influence associated with payments on physicians’ prescribing lends support to the concern that these payments entrench major conflicts of interest in the U.S. health care system.
 
 Open Payments program brings great transparency to the industry-physician relationships, but it doesn’t curtail the conflicts of interest significantly on its own. Regulatory policies and reform efforts should couple with the disclosure program in order to remove conflicts of interest in health care.  For example,  Stanford University Medical Center has banned its physicians from accepting meals or gifts and participating in speaking activities. 
-However, collaborations with industry and financial supports from pharmaceutical companies are important for physicians and professional medical activities. Therefore, we need to create an alternative to limit the source of the conflicts of interest. Public policy should tax pharmaceutical firms to support crucial professional activities. A government-sponsored independent entity should distribute these funds. Meanwhile, legislation should prohibit gifts and financial supports such as donations and funds directly to physicians. Moreover, individual physicians should take a stance against industry influences and always put their patients’ need first
+However, collaborations with industry and financial supports from pharmaceutical companies are important for physicians and professional medical activities. Therefore, the goverment need to create an alternative to limit the source of the conflicts of interest. Reform policy should include tax pharmaceutical firms to support crucial professional activities. A government-sponsored independent entity should distribute these funds. Meanwhile, legislation should prohibit gifts and financial supports such as donations and funds directly to physicians. Moreover, individual physicians should take a stance against industry influences and always put their patients’ need first
 
 #### _Try It Yourself: How much money did individual physician in DC receive in 2019_
 Select a Physician'name and see how much industry payment s/he received in 2019. 
