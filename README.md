@@ -72,7 +72,9 @@ Select a Physician'name and see how much industry payment s/he received in 2019.
 
 ### Reference
 Agrawal, S., & Brown, D. (2016). The Physician Payments Sunshine Act — Two Years of the Open Payments Program. New England Journal Of Medicine, 374(10), 906-909. doi: 10.1056/nejmp1509103
+
 Agrawal, S., Brennan, N., & Budetti, P. (2013). The Sunshine Act — Effects on Physicians. New England Journal Of Medicine, 368(22), 2054-2057. doi: 10.1056/nejmp1303523
+
 Blake, R., & Early, E. (1995). Patients' Attitudes About Gifts To Physicians From Pharmaceutical Companies. The Journal Of The American Board Of Family Practice, 8(6), 457-464.
 Cecaj, A., & Mamei, M. (2017). Investigating economic activity concentration patterns of co-agglomerations through association rule mining. Journal Of Ambient Intelligence And Humanized Computing, 10(2), 463-476. https://doi.org/10.1007/s12652-017-0665-3
 Cerrito, P. (2007). Choice of antibiotic in open heart surgery. Intelligent Decision Technologies, 1(1-2), 63-69. https://doi.org/10.3233/idt-2007-11-206
