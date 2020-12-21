@@ -1,4 +1,4 @@
-## Financial relationships Between Physicians and Medical Industry
+## Financial Relationships Between Physicians and Medical Industry
 
 ### Excutive Summary
 
@@ -63,7 +63,7 @@ Financial relationships between industry and physicians have been controversial 
 Open Payments program brings great transparency to the industry-physician relationships, but it doesn’t curtail the conflicts of interest significantly on its own. Regulatory policies and reform efforts should couple with the disclosure program in order to remove conflicts of interest in health care.  For example,  Stanford University Medical Center has banned its physicians from accepting meals or gifts and participating in speaking activities. 
 However, collaborations with industry and financial supports from pharmaceutical companies are important for physicians and professional medical activities. Therefore, we need to create an alternative to limit the source of the conflicts of interest. Public policy should tax pharmaceutical firms to support crucial professional activities. A government-sponsored independent entity should distribute these funds. Meanwhile, legislation should prohibit gifts and financial supports such as donations and funds directly to physicians. Moreover, individual physicians should take a stance against industry influences and always put their patients’ need first
 
-#### _Try It Yourself: how much money did individual physician in DC receive in 2019_
+#### _Try It Yourself: How much money did individual physician in DC receive in 2019_
 Select a Physician'name and see how much industry payment s/he received in 2019. 
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/dv_final_dc/1?:language=en&:display_count=y&publish=yes&:showVizHome=no" width = '1000' height = '800' scrolling='no' ></iframe>
