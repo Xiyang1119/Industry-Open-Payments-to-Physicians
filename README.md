@@ -45,7 +45,7 @@ _Chronic Myeloid Leukemia(CML): dasatinib, imatinib, nilotinib_
 The study collected data from two main sources, Open Payments data for payments and Medicare Part D for prescribing measurements. It performed an analysis on Open Payments data of the 2013-2015 program years. The outcome was relative prescribing of that drug in 2015, compared with the other drugs for that cancer.
 The study found that Physicians who received payments for a drug in all 3 years had increased prescribing of that drug (compared with 0 years) have increased rates of prescribing that drug for most of the studied cancers except for prostate cancer. Therefore, industry payments are associated with cancer drug prescribing among physicians who received payments consistently
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/cancer_drug/1_1?:language=en&:retry=yes&:display_count=y&:showVizHome=no" width = '1000' height = '600' scrolling='no' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/cancer_drug/1_1?:language=en&:retry=yes&:display_count=y&:showVizHome=no" width = '1000' height = '650' scrolling='no' ></iframe>
 
 
 #### Study 2 [Pharmaceutical Industry-Sponsored Meals and Physician Prescribing Patterns for Medicare Beneficiaries](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2528290)
@@ -53,7 +53,7 @@ The study found that Physicians who received payments for a drug in all 3 years 
 Another study looked at a specific payment nature: payment for food and beverage. It examined Open Payments data from August to December 2013 and found that physicians who attended a single industry meal promoting one of four specific brand-name drugs had significantly higher rates of prescribing those drug over equally effective alternatives from the same drug classes
 The studied drug included _Rosuvastatin(statin); Nebivolol(cardioselective β-blocker prescriptions); Olmesartan (ACE inhibitor and ARB prescriptions); and Desvenlafaxine (SSRI and SNRI)._ Physicians who received a single meal promoting the drug of interest had higher rates of prescribing brand-name drugs over other generic alternatives. The findings indicated an association as opposed to the cause-and-effect relationship between Payments from the medical industry and prescribing behavior in the studied drug category.
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/drug_meal/1_2?:language=en&:display_count=y&publish=yes&:showVizHome=no" width = '1000' height = '600' scrolling='yes' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/drug_meal/1_2?:language=en&:display_count=y&publish=yes&:showVizHome=no" width = '1000' height = '700' scrolling='no' ></iframe>
 
 
 ### Conclusion
@@ -63,7 +63,7 @@ Financial relationships between industry and physicians have been controversial 
 Open Payments program brings great transparency to the industry-physician relationships, but it doesn’t curtail the conflicts of interest significantly on its own. Regulatory policies and reform efforts should couple with the disclosure program in order to remove conflicts of interest in health care.  For example,  Stanford University Medical Center has banned its physicians from accepting meals or gifts and participating in speaking activities. 
 However, collaborations with industry and financial supports from pharmaceutical companies are important for physicians and professional medical activities. Therefore, we need to create an alternative to limit the source of the conflicts of interest. Public policy should tax pharmaceutical firms to support crucial professional activities. A government-sponsored independent entity should distribute these funds. Meanwhile, legislation should prohibit gifts and financial supports such as donations and funds directly to physicians. Moreover, individual physicians should take a stance against industry influences and always put their patients’ need first
 
-#### _Try It Yourself: how much money did individual physician in DC receive in 2019
+#### _Try It Yourself: how much money did individual physician in DC receive in 2019_
 Select a Physician'name and see how much industry payment s/he received in 2019. 
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/dv_final_dc/1?:language=en&:display_count=y&publish=yes&:showVizHome=no" width = '1000' height = '800' scrolling='no' ></iframe>
