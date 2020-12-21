@@ -43,7 +43,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/cancer_drug/1_1?:language=en&:retry=yes&:display_count=y&:showVizHome=no" width = '1000' height = '800' scrolling='yes' ></iframe>
 
 ###
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/drug_meal/1_2?:language=en&:retry=yes&:showVizHome=no" width = '1000' height = '800' scrolling='yes' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/drug_meal/1_2?:language=en&:display_count=y&publish=yes&:showVizHome=no" width = '1000' height = '800' scrolling='yes' ></iframe>
 
 ###
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/dv_final_dc/1?:language=en&:display_count=y&publish=yes&:showVizHome=no" width = '1000' height = '800' scrolling='yes' ></iframe>
