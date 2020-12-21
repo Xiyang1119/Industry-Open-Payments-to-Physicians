@@ -1,4 +1,4 @@
-## Disclosure Program of Physician-Industry Financial Relationship and Its Effects
+## Disclosure Program of Physician-Industry Financial Relationship and Its Effects 
 
 ### Excutive Summary
 
