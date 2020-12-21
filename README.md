@@ -43,3 +43,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ### 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/cancer_drug/1_1?:language=en&:retry=yes&:display_count=y" width = '650' height = '450' scrolling='yes' ></iframe>
 
+
+###
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/cancer_drug/1_1?:language=en&:retry=yes&:display_count=y&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe>
+
+
